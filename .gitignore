@@ -1,0 +1,5 @@
+node_modules/
+.output/
+fixtures/.cli-output/
+*.tgz
+.DS_Store
