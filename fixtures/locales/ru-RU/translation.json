@@ -1,0 +1,19 @@
+{
+  "alias": { "key": "Алиас ключ RU" },
+  "auth": { "login": { "title": "Вход RU" } },
+  "common": { "cancel": "Отмена RU", "save": "Сохранить RU" },
+  "concat": { "button": "Кнопка concat RU" },
+  "dashboard": { "cards": { "total": "Итого RU" } },
+  "errors": { "profile": { "required": "Обязательно RU" } },
+  "fallback": { "primary": "Фоллбек основной RU", "secondary": "Фоллбек вторичный RU" },
+  "item": "Элемент RU",
+  "menu": { "settings": "Настройки RU" },
+  "page": { "title": "Заголовок страницы RU" },
+  "panel": { "title": "Заголовок панели RU" },
+  "not": { "static": { "key": "Не статичный RU" } },
+  "profile": { "title": "Заголовок профиля RU" },
+  "role": { "admin": "Админ RU", "user": "Пользователь RU" },
+  "settings": { "key1": "Настройки key1 RU", "key2": "Настройки key2 RU" },
+  "trans": { "profile": "Транс профиль RU" },
+  "user": { "value1": "Значение пользователя1 RU" }
+}

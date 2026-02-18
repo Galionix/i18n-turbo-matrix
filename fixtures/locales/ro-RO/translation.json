@@ -1,0 +1,19 @@
+{
+  "alias": { "key": "Alias key RO" },
+  "auth": { "login": { "title": "Autentificare RO" } },
+  "common": { "cancel": "Anulează RO", "save": "Salvează RO" },
+  "concat": { "button": "Buton concat RO" },
+  "dashboard": { "cards": { "total": "Total RO" } },
+  "errors": { "profile": { "required": "Necesar RO" } },
+  "fallback": { "primary": "Fallback primar RO", "secondary": "Fallback secundar RO" },
+  "item": "Element RO",
+  "menu": { "settings": "Setări RO" },
+  "page": { "title": "Titlu pagină RO" },
+  "panel": { "title": "Titlu panou RO" },
+  "not": { "static": { "key": "Nu static RO" } },
+  "profile": { "title": "Titlu profil RO" },
+  "role": { "admin": "Admin RO", "user": "Utilizator RO" },
+  "settings": { "key1": "Setări key1 RO", "key2": "Setări key2 RO" },
+  "trans": { "profile": "Trans profil RO" },
+  "user": { "value1": "Valoare utilizator1 RO" }
+}

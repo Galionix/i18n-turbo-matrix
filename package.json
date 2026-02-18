@@ -1,0 +1,41 @@
+{
+  "name": "i18n-turbo-matrix",
+  "version": "0.2.0",
+  "private": false,
+  "type": "module",
+  "description": "Zero-drama i18n pipeline: extract keys, build language matrix, export XLS.",
+  "keywords": [
+    "i18n",
+    "localization",
+    "translation",
+    "i18next",
+    "cli",
+    "xlsx",
+    "xls",
+    "excel",
+    "matrix",
+    "react"
+  ],
+  "license": "MIT",
+  "files": [
+    "bin",
+    "src",
+    "README.md"
+  ],
+  "bin": {
+    "i18n-turbo-matrix": "bin/i18n-pipeline.js"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "exports": {
+    ".": "./src/index.js",
+    "./plugin": "./src/i18nextCliDynamicPlugin.js"
+  },
+  "scripts": {
+    "test": "node --test tests/*.test.mjs"
+  },
+  "dependencies": {
+    "typescript": "^5.2.2"
+  }
+}

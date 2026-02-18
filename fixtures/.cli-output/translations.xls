@@ -1,0 +1,31 @@
+<html>
+<head>
+<meta charset="utf-8" />
+</head>
+<body>
+<table border="1">
+<tr><td>key</td><td>en-US</td><td>ro-RO</td><td>ru-RU</td></tr>
+<tr><td>alias.key</td><td>Alias key EN</td><td>Alias key RO</td><td>Алиас ключ RU</td></tr>
+<tr><td>auth.login.title</td><td>Login EN</td><td>Autentificare RO</td><td>Вход RU</td></tr>
+<tr><td>common.cancel</td><td>Cancel EN</td><td>Anulează RO</td><td>Отмена RU</td></tr>
+<tr><td>common.save</td><td>Save EN</td><td>Salvează RO</td><td>Сохранить RU</td></tr>
+<tr><td>concat.button</td><td>Concat button EN</td><td>Buton concat RO</td><td>Кнопка concat RU</td></tr>
+<tr><td>dashboard.cards.total</td><td>Total EN</td><td>Total RO</td><td>Итого RU</td></tr>
+<tr><td>errors.profile.required</td><td>Required EN</td><td>Necesar RO</td><td>Обязательно RU</td></tr>
+<tr><td>fallback.primary</td><td>Fallback primary EN</td><td>Fallback primar RO</td><td>Фоллбек основной RU</td></tr>
+<tr><td>fallback.secondary</td><td>Fallback secondary EN</td><td>Fallback secundar RO</td><td>Фоллбек вторичный RU</td></tr>
+<tr><td>item</td><td>Item EN</td><td>Element RO</td><td>Элемент RU</td></tr>
+<tr><td>menu.settings</td><td>Settings EN</td><td>Setări RO</td><td>Настройки RU</td></tr>
+<tr><td>not.static.key</td><td>Not static EN</td><td>Nu static RO</td><td>Не статичный RU</td></tr>
+<tr><td>page.title</td><td>Page title EN</td><td>Titlu pagină RO</td><td>Заголовок страницы RU</td></tr>
+<tr><td>panel.title</td><td>Panel title EN</td><td>Titlu panou RO</td><td>Заголовок панели RU</td></tr>
+<tr><td>profile.title</td><td>Profile title EN</td><td>Titlu profil RO</td><td>Заголовок профиля RU</td></tr>
+<tr><td>role.admin</td><td>Admin EN</td><td>Admin RO</td><td>Админ RU</td></tr>
+<tr><td>role.user</td><td>User EN</td><td>Utilizator RO</td><td>Пользователь RU</td></tr>
+<tr><td>settings.key1</td><td>Settings key1 EN</td><td>Setări key1 RO</td><td>Настройки key1 RU</td></tr>
+<tr><td>settings.key2</td><td>Settings key2 EN</td><td>Setări key2 RO</td><td>Настройки key2 RU</td></tr>
+<tr><td>trans.profile</td><td>Trans profile EN</td><td>Trans profil RO</td><td>Транс профиль RU</td></tr>
+<tr><td>user.value1</td><td>User value1 EN</td><td>Valoare utilizator1 RO</td><td>Значение пользователя1 RU</td></tr>
+</table>
+</body>
+</html>

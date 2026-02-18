@@ -1,0 +1,19 @@
+{
+  "alias": { "key": "Alias key EN" },
+  "auth": { "login": { "title": "Login EN" } },
+  "common": { "cancel": "Cancel EN", "save": "Save EN" },
+  "concat": { "button": "Concat button EN" },
+  "dashboard": { "cards": { "total": "Total EN" } },
+  "errors": { "profile": { "required": "Required EN" } },
+  "fallback": { "primary": "Fallback primary EN", "secondary": "Fallback secondary EN" },
+  "item": "Item EN",
+  "menu": { "settings": "Settings EN" },
+  "page": { "title": "Page title EN" },
+  "panel": { "title": "Panel title EN" },
+  "not": { "static": { "key": "Not static EN" } },
+  "profile": { "title": "Profile title EN" },
+  "role": { "admin": "Admin EN", "user": "User EN" },
+  "settings": { "key1": "Settings key1 EN", "key2": "Settings key2 EN" },
+  "trans": { "profile": "Trans profile EN" },
+  "user": { "value1": "User value1 EN" }
+}
