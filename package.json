@@ -1,6 +1,6 @@
 {
-  "name": "i18n-turbo-matrix",
-  "version": "0.2.0",
+  "name": "@galionix/i18n-turbo-matrix",
+  "version": "0.3.1",
   "private": false,
   "type": "module",
   "description": "Zero-drama i18n pipeline: extract keys, build language matrix, export XLS.",
@@ -34,7 +34,7 @@
     "i18n-turbo-matrix": "bin/i18n-pipeline.js"
   },
   "publishConfig": {
-    "access": "public"
+    "registry": "https://npm.pkg.github.com"
   },
   "exports": {
     ".": "./src/index.js",
