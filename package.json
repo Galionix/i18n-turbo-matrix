@@ -4,6 +4,14 @@
   "private": false,
   "type": "module",
   "description": "Zero-drama i18n pipeline: extract keys, build language matrix, export XLS.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Galionix/i18n-turbo-matrix.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Galionix/i18n-turbo-matrix/issues"
+  },
+  "homepage": "https://github.com/Galionix/i18n-turbo-matrix#readme",
   "keywords": [
     "i18n",
     "localization",
